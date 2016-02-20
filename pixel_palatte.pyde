@@ -1,7 +1,7 @@
 
 def setup():
     global pixelSize
-    pixelSize = 2
+    pixelSize = 5
      
     global palatte 
     palatte  = []
@@ -20,11 +20,10 @@ def setup():
     # palatte.append(int(color(155, 25, 0)))
     # palatte.append(int(color(0, 35, 20)))
 
-    size(334, 500)
+    size(736, 459)
     global img
-    img = loadImage("head.jpg")
-    #Uncomment to convert to greyscale.
-    #img.filter(GRAY)
+    img = loadImage("animegirl1.png")
+    img.filter(GRAY)
     noStroke()
     
         

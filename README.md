@@ -1,6 +1,6 @@
 #Pixel Palatte.
 A processing.py sketch that creates a pixilized image using the palatte specified.
-It creates some interesting effects. Weirdly enough, it works best with anime images.
+It creates some interesting effects. Weirdly enough, I've found it works best with anime images.
 Here are some examples:
 
 ##Screenshot:
